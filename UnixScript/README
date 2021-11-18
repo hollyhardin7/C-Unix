@@ -1,0 +1,5 @@
+UnixScript
+
+Instructions:
+Execute the command "chmod 755" to make the program executable
+Execute the command "./unixscript.sh temp" to execute the script

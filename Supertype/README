@@ -1,0 +1,6 @@
+Supertypes
+
+Instructions:
+Execute the command "make" to create the executable program and to run it
+It will save the output to a file named "my_output"
+Execute the command "diff my_output driver_output" to see there is no difference between the program's output and the correct output

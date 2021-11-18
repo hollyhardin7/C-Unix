@@ -1,0 +1,6 @@
+ImageFilters
+
+Instructions:
+Execute the command "make" to create the program
+Execute the command "./imagefilters imagefiltersinput.pnm my_output.pnm" to apply filters to imagefiltersinput.pnm
+Execute the command "diff imagefiltersoutput.pnm my_output.pnm" to see that there is no difference between the .pnm files
